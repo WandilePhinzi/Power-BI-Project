@@ -52,5 +52,7 @@ Navigate through the different pages of the report to explore the data.
 This report enables business stakeholders to monitor and track time and cost savings for each project and client. With a mix of AI-driven insights and interactive visualizations, users can quickly identify areas of improvement and make informed business decisions.
 
 ## Reference List
+1.	ChatGPT. (2024). "Project Assistence Request" OpenAI ChatGPT. Available at: [Single Responsibility Principal Application (chatgpt.com)](https://chatgpt.com/c/6701a1bb-4ebc-8000-a95a-1f03fc12c600) (Accessed: 06 September 2024).
+2.	
 
 
