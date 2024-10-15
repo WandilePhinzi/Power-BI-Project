@@ -45,7 +45,7 @@ Choose a specific date range to view data for a particular period.
 ### 6. Publishing and Accessing the Report
 This report is hosted on Power BI Service. To access the report:
 
-Use the Power BI Service link: [Insert Power BI Link Here]
+Use the Power BI Service link: (https://app.powerbi.com/groups/me/reports/05f6f4a3-09b3-46c5-91de-db214604fe55/0f310448b586f7e52b9c?experience=power-bi)
 Sign in with your NWU account.
 Navigate through the different pages of the report to explore the data.
 ## Conclusion
