@@ -1,4 +1,4 @@
-# CMPG-323-Project-5-41580117
+
 # NWU Tech Trends Benefit Realisation Report
 ## Overview
 The NWU Tech Trends Benefit Realisation report provides an interactive, high-level summary of key business metrics. It focuses on tracking the time savings and cost savings for various projects and clients within the organization. Built with Power BI, this report enables stakeholders to monitor important business data, make informed decisions, and drill down into details based on specific clients, projects, and time periods.
